@@ -4,4 +4,4 @@ Cette présentation porte sur la minisation d'automates et, en particulier, sur 
 
 Cette présentation contient :
 - le rapport de la présentation
-- les slides de la soutenance
+- le diaporama de la soutenance
